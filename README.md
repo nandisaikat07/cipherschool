@@ -1,4 +1,4 @@
-# Deployed Link: (https://cipherschool-psi.vercel.app/)
+# Deployed Link: [Quiz Application](https://cipherschool-psi.vercel.app/)
 
 # Getting Started with Create React App
 
